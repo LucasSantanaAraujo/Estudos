@@ -6,7 +6,7 @@ Restrição:
 
 */
 
-#include <stdio.H>
+#include <stdio.h>
 
 int main(int argc, char const *argv[])
 {

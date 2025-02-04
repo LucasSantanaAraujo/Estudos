@@ -9,7 +9,6 @@ dobro e o seu quádruplo, utilizando exclusivamente a função dobro().
 #include <stdio.h>
 #include <stdlib.h>
 
-
 int dobro(int n) {
 		
 	return n * 2;
